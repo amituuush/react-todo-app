@@ -8,5 +8,45 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1455053677162,
+        "author": "Amit",
+        "text": "hey"
+    },
+    {
+        "id": 1455053683335,
+        "author": "Jake",
+        "text": "sup"
+    },
+    {
+        "id": 1455053879215,
+        "author": "amit",
+        "text": "hey"
+    },
+    {
+        "id": 1455055429510,
+        "author": "Amit",
+        "text": "Hey test"
+    },
+    {
+        "id": 1455057016086,
+        "author": "Jimmy",
+        "text": "hey guys"
+    },
+    {
+        "id": 1455057043973,
+        "author": "Jim",
+        "text": "hey test"
+    },
+    {
+        "id": 1455057066229,
+        "author": "Rob",
+        "text": "sup"
+    },
+    {
+        "id": 1455057196093,
+        "author": "test",
+        "text": "test"
     }
 ]
