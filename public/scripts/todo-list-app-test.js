@@ -122,10 +122,10 @@ ReactDOM.render(<ToDoListContainer />, document.getElementById('content'));
 
 // finish deleting items // DONE
 // finish completing items // DONE
+// clear list button // DONE
 // node intro
 // local storage setup
 // save button
 // automatic saving upon changes
-// clear list button // DONE
 // set up server in node
 // styling
