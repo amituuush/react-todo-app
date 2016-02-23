@@ -14,17 +14,18 @@ var ToDoListContainer = React.createClass({
     },
 
     _markComplete: function(index) {
-        this.state.itemList[index].completed = true;
+        let {itemList} = this.state;
+        itemList[index].completed = true;
         this.setState({
-            itemList: this.state.itemList
+            itemList: itemList
         })
-        console.log(this.state.itemList[index].completed);
     },
 
     _deleteItem: function(index) {
-        this.state.itemList.splice(index, 1);
+        let {itemList} = this.state;
+        itemList.splice(index, 1);
         this.setState({
-            itemList: this.state.itemList
+            itemList: itemList
         });
     },
 
